@@ -1,3 +1,2 @@
 #!/bin/bash
-echo -e ls && ./7-file && ls -l && cat -e \\* \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)*
-tail Best School$
+echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
