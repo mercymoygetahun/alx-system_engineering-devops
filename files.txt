@@ -1,0 +1,9 @@
+total 12
+-rwxr-xr-x 1 root root  12 May 29 11:35 0-current_working_directory
+drwxr-xr-x 2 root root 320 May 29 13:18 0x00-shell_basics
+drwxr-xr-x 2 root root 284 May 30 11:13 0x02-shell_redirections
+-rw-r--r-- 1 root root   0 May 30 01:26 4-lastlines
+-rwxr-xr-x 1 root root   0 May 30 05:58 7-file
+-rw-r--r-- 1 root root   0 May 30 11:41 files.txt
+-rw-r--r-- 1 root root  25 May 28 03:29 README.md
+-rw-r--r-- 1 root root 104 May 30 06:04 touch
