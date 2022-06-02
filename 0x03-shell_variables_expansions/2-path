@@ -1,2 +1,2 @@
-echo '#!/bin/bash'>2-path
-echo 'PATH=$PATH:/action'>>2-path 
+#!/bin/bash
+echo PATH=$PATH:/action 
